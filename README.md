@@ -1,2 +1,4 @@
 # hello-world
-Test GIT Repository
+Hello Earthings
+
+I plan to take over your world soon!
