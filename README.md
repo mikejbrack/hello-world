@@ -1,2 +1,4 @@
 # hello-world
-Test GIT Repository
+Hello Earthings
+
+The IBM Cloud Solutioning Centers Delivery Guild is taking over the IBM and the World
