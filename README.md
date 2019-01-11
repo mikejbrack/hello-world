@@ -1,4 +1,4 @@
 # hello-world
 Hello Earthings
 
-I plan to take over your world soon!
+The IBM Cloud Solutioning Centers Delivery Guild is taking over the IBM and the World
